@@ -14,7 +14,7 @@ TG频道群：https://t.me/py
 *******************************
 [rewrite_local]
 
-^https:\/\/bladecn\.mofishgames\.com\/bladesrv\/login url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/djdzz.js
+^https:\/\/bladecn\.mofishgames\.com\/bladesrv\/login url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/yx/djdzz.js
 
 [mitm] 
 
