@@ -1,13 +1,19 @@
 /******************************
 
-666666
-
+脚本功能：Picsew滚动截图+解锁订阅
+下载地址：http://mtw.so/5AOWu4
+软件版本：3.8.6
+脚本作者：彭于晏
+更新时间：2022-9-2
+问题反馈：QQ+89996462
+TG群：https://t.me/plus8889
+使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 
 *******************************
 
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/olny1/Picsew.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/o1ny/Picsew.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
