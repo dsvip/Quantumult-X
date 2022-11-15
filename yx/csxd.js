@@ -12,7 +12,7 @@
 
 [rewrite_local]
 
-^https:\/\/gjyklslb\.mantianfei\.net url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/csxd.js
+^https:\/\/gjyklslb\.mantianfei\.net url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/yx/csxd.js
 
 [mitm]
 
