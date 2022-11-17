@@ -345,9 +345,7 @@
 * [@lowking](https://github.com/lowking/Scripts)
  </details>
 
-![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/qx.png)![Image text](https://raw.githubusercontent.com/dsvip/Quantumult-X/main/Img/HY.jpg)
-
-  **您必须在下载后的 24 小时内从计算机或手机中完全删除以上内容.** </br>
+![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/qx.png)!
 
   > **您使用或者复制了本仓库的任何脚本，则视为`已接受`此声明，请仔细阅读**
 
