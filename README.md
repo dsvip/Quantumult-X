@@ -345,7 +345,7 @@
 * [@lowking](https://github.com/lowking/Scripts)
  </details>
 
-![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/qx.png)![Image text](https://raw.githubusercontent.com/dsvip/Quantumult-X/main/Img/HY.jpg
+![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/qx.png)![Image text](https://raw.githubusercontent.com/dsvip/Quantumult-X/main/Img/HY.png
 )
 
 
