@@ -12,7 +12,7 @@
 
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/o1ny/Picsew.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Picsew.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
