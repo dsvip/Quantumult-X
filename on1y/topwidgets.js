@@ -14,7 +14,7 @@
 [rewrite_local]
 
 # ～ TopWidgets☆永久VIP（2022-10-30）
-^https?:\/\/.*xiaozujian\.com\/api\/app\/config\/userConfig url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/only/topwidgets.js
+^https?:\/\/.*xiaozujian\.com\/api\/app\/config\/userConfig url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/topwidgets.js
 
 [mitm]
 
