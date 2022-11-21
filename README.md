@@ -345,7 +345,7 @@
 * [@lowking](https://github.com/lowking/Scripts)
  </details>
 
-![Image text](https://raw.githubusercontent.com/dsvip/Quantumult-X/main/Img/qx.png)!
+![Image text](https://raw.githubusercontent.com/dsvip/Quantumult-X/main/Img/qx.png)
 
   > **您使用或者复制了本仓库的任何脚本，则视为`已接受`此声明，请仔细阅读**
 
