@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/accounts\.agenda\.com\/users\/.*\/license url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Agenda.js
+^https:\/\/accounts\.agenda\.com\/users\/.*\/license url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Agenda.js
 
 [mitm] 
 
