@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-https?:\/\/bmall\.camera360\.com\/api\/mix\/recovery url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/MIX.js
+https?:\/\/bmall\.camera360\.com\/api\/mix\/recovery url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/MIX.js
 
 [mitm]
 
