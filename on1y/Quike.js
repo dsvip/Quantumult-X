@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/shared\.lc-cn-n1-shared\.com\/1\.1\/classes\/Users url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Quike.js
+^https:\/\/shared\.lc-cn-n1-shared\.com\/1\.1\/classes\/Users url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Quike.js
 
 [mitm] 
 
