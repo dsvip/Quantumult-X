@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api\.lingokids\.com\/v1\/renovate_session url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Lingokids.js
+^https:\/\/api\.lingokids\.com\/v1\/renovate_session url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Lingokids.js
 
 [mitm] 
 
