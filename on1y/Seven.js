@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-https://api.sevenworkouts.com/api/v2/verify-purchases url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Seven.js
+https://api.sevenworkouts.com/api/v2/verify-purchases url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Seven.js
 
 [mitm] 
 
