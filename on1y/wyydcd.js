@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-^https:\/\/dict\.youdao\.com\/vip\/user\/status url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js
+^https:\/\/dict\.youdao\.com\/vip\/user\/status url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/wyydcd.js
 
 [mitm] 
 
