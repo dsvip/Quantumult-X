@@ -16,7 +16,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/pgapi\.ksmobile\.com\/v1\/ios\/auth url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/photoGrid.js
+^https:\/\/pgapi\.ksmobile\.com\/v1\/ios\/auth url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/photoGrid.js
 
 [mitm] 
 
