@@ -14,7 +14,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/vipapi\.jxedt\.com\/store\/vip\/check url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jxydt.js
+^https:\/\/vipapi\.jxedt\.com\/store\/vip\/check url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/jxydt.js
 
 [mitm] 
 hostname = vipapi.jxedt.com
