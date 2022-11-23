@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-https?:\/\/screen-lock\.51wnl-cq\.com\/userApi\/saveUser url script-echo-response https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/budingsuoping.js
+https?:\/\/screen-lock\.51wnl-cq\.com\/userApi\/saveUser url script-echo-response https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/budingsuoping.js
 
 [mitm] 
 
