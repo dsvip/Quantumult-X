@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/sdk\.api\.appwheel\.com\/v1\/order\/restore url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/VCUS.js
+^https:\/\/sdk\.api\.appwheel\.com\/v1\/order\/restore url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/VCUS.js
 
 [mitm] 
 
