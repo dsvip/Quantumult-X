@@ -14,7 +14,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/pro.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/pro.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
