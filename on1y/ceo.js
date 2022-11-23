@@ -17,7 +17,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/user\.xiaozaoapp\.com\/app\/ceouser\/loginAuto url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ceo.js
+^https:\/\/user\.xiaozaoapp\.com\/app\/ceouser\/loginAuto url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/ceo.js
 
 [mitm] 
 hostname = user.xiaozaoapp.com
