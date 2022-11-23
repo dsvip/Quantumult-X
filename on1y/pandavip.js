@@ -14,7 +14,7 @@ TG频道群：https://t.me/py
 *******************************
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/pandavip.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/pandavip.js
 
 [mitm]
 
