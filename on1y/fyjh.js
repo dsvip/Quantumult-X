@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/getway-plan\.abuddz\.com\/api\/sync\/putNeedUpdateData url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fyjh.js
+^https:\/\/getway-plan\.abuddz\.com\/api\/sync\/putNeedUpdateData url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/fyjh.js
 
 [mitm] 
 
