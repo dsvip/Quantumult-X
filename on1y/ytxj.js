@@ -12,7 +12,7 @@
 *******************************
 
 [rewrite_local]
-^https?:\/\/m2u-api\.getkwai\.com\/api-server\/api\/v2\/vip\/vipUserInfo url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ytxj.js
+^https?:\/\/m2u-api\.getkwai\.com\/api-server\/api\/v2\/vip\/vipUserInfo url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/ytxj.js
 
 [mitm] 
 hostname = m2u-api.getkwai.com
