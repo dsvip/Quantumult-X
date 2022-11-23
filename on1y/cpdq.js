@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/apiios_dq\.xiangha\.com url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/cpdq.js
+^https:\/\/apiios_dq\.xiangha\.com url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/cpdq.js
 
 [mitm] 
 
