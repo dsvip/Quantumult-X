@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/memoryhelper\.fujianjin6471\.com\/api\/v4\.4\/expiration_date url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/memoryhelper.js
+^https:\/\/memoryhelper\.fujianjin6471\.com\/api\/v4\.4\/expiration_date url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/memoryhelper.js
 
 [mitm] 
 
