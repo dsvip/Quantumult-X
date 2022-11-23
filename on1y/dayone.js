@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-https://dayone.app/api/v2/users/(receipt|account-status) url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dayone.js
+https://dayone.app/api/v2/users/(receipt|account-status) url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/dayone.js
 
 [mitm] 
 
