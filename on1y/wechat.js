@@ -15,7 +15,7 @@ TG反馈群：https://t.me/plus8889
 *******************************
 [rewrite_local]
 
-^https?://mp\.weixin\.qq\.com/s\?.* url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wechat.js
+^https?://mp\.weixin\.qq\.com/s\?.* url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/wechat.js
 
 [mitm]
 
