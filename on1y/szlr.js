@@ -14,7 +14,7 @@ TG频道群：https://t.me/py
 *******************************
 [rewrite_local]
 
-^https:\/\/cn-rest\.dhcn\.greenergrass\.games\/v1\/sync\/Player url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/szlr.js
+^https:\/\/cn-rest\.dhcn\.greenergrass\.games\/v1\/sync\/Player url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/szlr.js
 
 [mitm] 
 
