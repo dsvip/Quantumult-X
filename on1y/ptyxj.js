@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-^https:\/\/puzzle\.xcxsc\.net\/v5\/user\/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ptyxj.js
+^https:\/\/puzzle\.xcxsc\.net\/v5\/user\/info url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/ptyxj.js
 
 [mitm] 
 
