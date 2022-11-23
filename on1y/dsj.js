@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^http[s]?:\/\/123.56.125.184 url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dsj.js
+^http[s]?:\/\/123.56.125.184 url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/dsj.js
 
 [mitm] 
 
