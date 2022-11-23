@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-http:\/\/fxshot-api\.afunapp\.com\/order_api\/apple_query url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kp.js
+http:\/\/fxshot-api\.afunapp\.com\/order_api\/apple_query url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/kp.js
 
 [mitm] 
 
