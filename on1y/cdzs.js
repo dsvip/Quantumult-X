@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api\.yonekura\.cn\/3\.7\.0\/uicommon\/getuser url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/cdzs.js
+^https:\/\/api\.yonekura\.cn\/3\.7\.0\/uicommon\/getuser url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/cdzs.js
 
 [mitm] 
 
