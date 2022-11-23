@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api2.mubu.com\/v3\/api\/user/* url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mubu.js
+^https:\/\/api2.mubu.com\/v3\/api\/user/* url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/mubu.js
 
 [mitm] 
 
