@@ -15,7 +15,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/saomiao\.34354\.com\/api\/open\/member\/level url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ydsmy.js
+^https:\/\/saomiao\.34354\.com\/api\/open\/member\/level url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/ydsmy.js
 
 [mitm] 
 
