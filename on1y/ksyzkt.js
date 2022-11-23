@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 *******************************
 [rewrite_local]
 
-^https:\/\/curriculum-api\.yizhiweixin\.com\/curriculum\/newDetail url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ksyzkt.js
+^https:\/\/curriculum-api\.yizhiweixin\.com\/curriculum\/newDetail url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/ksyzkt.js
 
 [mitm] 
 
