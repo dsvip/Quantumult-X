@@ -16,7 +16,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info? url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qyxj.js
+^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info? url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/qyxj.js
 
 [mitm] 
 
