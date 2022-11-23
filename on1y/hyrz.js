@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-http:\/\/server1\.xxxy\.dayukeji\.com:15009\/Logic\/user\/querymail1 url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hyrz.js
+http:\/\/server1\.xxxy\.dayukeji\.com:15009\/Logic\/user\/querymail1 url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/hyrz.js
 
 [mitm] 
 
