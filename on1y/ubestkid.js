@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^http[s]?:\/\/aicblhapp.ubestkid.com url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ubestkid.js
+^http[s]?:\/\/aicblhapp.ubestkid.com url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/ubestkid.js
 
 [mitm] 
 
