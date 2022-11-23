@@ -15,7 +15,7 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js
+^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/baimiao.js
 
 [mitm] 
 
