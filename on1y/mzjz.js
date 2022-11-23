@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/xrckeji\.com\/itally\/app\/user\/query url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mzjz.js
+^https:\/\/xrckeji\.com\/itally\/app\/user\/query url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/mzjz.js
 
 [mitm] 
 
