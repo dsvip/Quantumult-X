@@ -13,7 +13,7 @@
 
 [[rewrite_local]
 
-^https:\/\/api\.meiyan\.com\/vip\/user_info\.json url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/myxj.js
+^https:\/\/api\.meiyan\.com\/vip\/user_info\.json url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/myxj.js
 
 [mitm] 
 hostname = api.meiyan.com
