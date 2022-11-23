@@ -14,7 +14,7 @@ TG群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https:\/\/www\.freshhome\.top\/mngruqi url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/rq.js
+^https:\/\/www\.freshhome\.top\/mngruqi url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/rq.js
 
 [mitm] 
 hostname = www.freshhome.top
