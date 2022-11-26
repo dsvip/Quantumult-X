@@ -8,17 +8,17 @@
 
 备份由程序自动进行，只增不删，不对备份内容进行审核，同时也无法对备份内容合法性负责。
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/mini 备份自 https://github.com/Orz-3/mini/tree/master/Alpha    
+https://github.com/dsvip/Quantumult-X/main/X7/icon/mini 备份自 https://github.com/Orz-3/mini/tree/master/Alpha    
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/color 备份自 https://github.com/Orz-3/mini/tree/master/Color
+https://github.com/dsvip/Quantumult-X/main/X7/icon/color 备份自 https://github.com/Orz-3/mini/tree/master/Color
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/qure 备份自 https://github.com/Koolson/Qure/tree/master/IconSet
+https://github.com/dsvip/Quantumult-X/main/X7/icon/qure 备份自 https://github.com/Koolson/Qure/tree/master/IconSet
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/dark 备份自 https://github.com/Koolson/Qure/tree/master/IconSet/Dark
+https://github.com/dsvip/Quantumult-X/main/X7/icon/dark 备份自 https://github.com/Koolson/Qure/tree/master/IconSet/Dark
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/qure/color 备份自 https://github.com/Koolson/Qure/tree/master/IconSet/Color
+https://github.com/dsvip/Quantumult-X/main/X7/icon/qure/color 备份自 https://github.com/Koolson/Qure/tree/master/IconSet/Color
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/task 备份自 https://github.com/Orz-3/task   (上游已删库，不再更新)
+https://github.com/dsvip/Quantumult-X/main/X7/icon/task 备份自 https://github.com/Orz-3/task   (上游已删库，不再更新)
 
 
 
