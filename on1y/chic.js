@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info\.json url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Chic.js
+^https:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info\.json url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/chic.js
 
 [mitm] 
 
