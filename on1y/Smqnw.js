@@ -11,7 +11,7 @@
 
 [rewrite_local]
 
-^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/mqnw.js
+^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Smqnw.js
 
 [mitm]
 
