@@ -1,0 +1,625 @@
+{
+  "id": "blackmatrix7.app.sub",
+  "name": "blackmatrix7 应用订阅",
+  "author": "@blackmatrix7",
+  "icon": "https://avatars.githubusercontent.com/u/27717518?v=4",
+  "repo": "https://github.com/blackmatrix7/ios_rule_script",
+  "apps": [
+    {
+      "id": "blackmatrix7.magicjs",
+      "name": "MagicJS",
+      "settings": [
+        {
+          "id": "magic_loglevel",
+          "name": "日志等级",
+          "val": "INFO",
+          "type": "radios",
+          "items": [
+            {
+              "key": "INFO",
+              "label": "INFO"
+            },
+            {
+              "key": "WARNING",
+              "label": "WARNING"
+            },
+            {
+              "key": "ERROR",
+              "label": "ERROR"
+            },
+            {
+              "key": "DEBUG",
+              "label": "DEBUG"
+            },
+            {
+              "key": "SNIFFER",
+              "label": "SNIFFER"
+            }
+          ],
+          "desc": "出现异常时请选择DEBUG提交日志"
+        }
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/logo_dark.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/logo.png"
+      ]
+    },
+    {
+      "id": "blackmatrix7.qinglong",
+      "name": "青龙面板",
+      "keys": [
+        "magic_qlurl",
+        "magic_qlclient",
+        "magic_qlsecrt",
+        "magic_qlname",
+        "magic_qlpwd",
+        "magic_qltoken"
+      ],
+      "settings": [
+        {
+          "id": "magic_qlurl",
+          "name": "登录地址",
+          "val": "",
+          "type": "input",
+          "placeholder": "http://qinglong.mydomain.com",
+          "autoGrow": true,
+          "desc": "填写青龙面板的登录地址，如为https请保证证书有效"
+        },
+        {
+          "id": "magic_qlclient",
+          "name": "ClientId",
+          "val": "",
+          "type": "input",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "填写青龙面板的ClientId"
+        },
+        {
+          "id": "magic_qlsecrt",
+          "name": "ClientSecret",
+          "val": "",
+          "type": "input",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "填写青龙面板的ClientSecret"
+        },
+        {
+          "id": "magic_qltoken",
+          "name": "token",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "登录token，正常情况下不需要填写，自动获取"
+        }
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/qinglong_dark.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/qinglong.png"
+      ]
+    },
+    {
+      "id": "blackmatrix7.bark",
+      "name": "Bark推送",
+      "keys": [
+        "magic_bark_url"
+      ],
+      "settings": [
+        {
+          "id": "magic_bark_url",
+          "name": "Bark推送URL",
+          "val": "",
+          "type": "input",
+          "placeholder": "https://api.day.app/xxxxxxxxxxxxxxxxxx/",
+          "autoGrow": true,
+          "desc": "填写Bark推送的链接，脚本通知将通过Bark推送。仅基于MagicJS 3的脚本支持。"
+        }
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/dark/bark.jpg",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/color/bark.jpg"
+      ]
+    },
+    {
+      "id": "blackmatrix7.bilibili",
+      "name": "哔哩哔哩去广告",
+      "keys": [
+        "bilibili_story_aid",
+        "bilibili_feed_black"
+      ],
+      "settings": [
+        {
+          "id": "bilibili_feed_black",
+          "name": "首页UP主黑名单",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "UP主名称1;UP主名称2",
+          "autoGrow": true,
+          "rows": 5,
+          "desc": "以英文逗号分隔多个号码"
+        }
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/bilibili.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png"
+      ]
+    },
+    {
+      "id": "blackmatrix7.dingdong",
+      "name": "叮咚买菜",
+      "keys": [
+        "dingdongmaicai_checkin_cookie",
+        "dingdongmaicai_checkin_body",
+        "dingdongmaicai_sync_qinglong"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong.png"
+      ],
+      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.js",
+      "settings": [
+        {
+          "id": "dingdongmaicai_sync_qinglong",
+          "name": "同步Cookie到青龙面板",
+          "val": false,
+          "type": "boolean",
+          "desc": "将获取的Cookies和Body同步至青龙面板"
+        }
+      ]
+    },
+    {
+      "id": "blackmatrix7.eleme",
+      "name": "饿了么",
+      "keys": [
+        "eleme_cookies",
+        "eleme_coordinate",
+        "eleme_mission",
+        "eleme_task_keywords",
+        "eleme_sync_qinglong"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/eleme",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/elem.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png"
+      ],
+      "settings": [
+        {
+          "id": "eleme_cookies",
+          "name": "Cookie",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "填写获取的饿了么Cookie"
+        },
+        {
+          "id": "eleme_coordinate",
+          "name": "坐标",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "填写抓包获取的饿了么坐标"
+        },
+        {
+          "id": "eleme_task_keywords",
+          "name": "任务关键字",
+          "val": "美食外卖;",
+          "type": "input",
+          "placeholder": "多个关键词以;分隔，越靠前的关键词优先级越高",
+          "autoGrow": true,
+          "desc": "只领取含有关键字的任务"
+        },
+        {
+          "id": "eleme_mission",
+          "name": "领取会员任务",
+          "val": true,
+          "type": "boolean",
+          "desc": "根据任务关键字领取会员任务"
+        },
+        {
+          "id": "eleme_sync_qinglong",
+          "name": "同步Cookie到青龙面板",
+          "val": false,
+          "type": "boolean",
+          "desc": "将获取的Cookies和坐标同步至青龙面板"
+        }
+      ]
+    },
+    {
+      "id": "blackmatrix7.famijia",
+      "name": "Fa米家",
+      "keys": [
+        "famijia_checkin_cookie",
+        "famijia_device_id",
+        "famijia_black_box"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia.png"
+      ],
+      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.js"
+    },
+    {
+      "id": "blackmatrix7.luka",
+      "name": "Luka阅读养成",
+      "keys": [
+        "luka_checkin_cookie",
+        "luka_signin_auth"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/luka",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka.png"
+      ],
+      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.js"
+    },
+    {
+      "id": "blackmatrix7.manmanbuy",
+      "name": "慢慢买",
+      "keys": [
+        "manmanbuy_checkin_cookie",
+        "manmanbuy_login_body",
+        "manmanbuy_username",
+        "manmanbuy_deviceid"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanmai.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanmai.png"
+      ],
+      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js"
+    },
+    {
+      "id": "blackmatrix7.meituan",
+      "name": "美团买菜",
+      "keys": [
+        "meituan_mall_cookie",
+        "meituan_mall_t",
+        "meituan_mall_querystring",
+        "meituan_mall_uuid",
+        "meituan_mall_userid",
+        "meituan_mall_body"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/meituan",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai.png"
+      ],
+      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai_checkin.js"
+    },
+    {
+      "id": "blackmatrix7.smzdm",
+      "name": "什么值得买",
+      "keys": [
+        "smzdm_cookie",
+        "smzdm_cookie_id",
+        "smzdm_signin",
+        "smzdm_mission",
+        "smzdm_lottery",
+        "smzdm_sync_qinglong"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/smzdm.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png"
+      ],
+      "scripts": [
+        {
+          "name": "执行每日签到与任务",
+          "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js"
+        }
+      ],
+      "settings": [
+        {
+          "id": "smzdm_sync_qinglong",
+          "name": "同步Cookie到青龙面板",
+          "val": false,
+          "type": "boolean",
+          "desc": "需先配置好青龙面板登录参数，并确保手机可以访问青龙面板"
+        },
+        {
+          "id": "smzdm_signin",
+          "name": "执行每日签到",
+          "val": true,
+          "type": "boolean",
+          "desc": ""
+        },
+        {
+          "id": "smzdm_mission",
+          "name": "执行每日任务",
+          "val": false,
+          "type": "boolean",
+          "desc": ""
+        },
+        {
+          "id": "smzdm_lottery",
+          "name": "执行每日抽奖",
+          "val": false,
+          "type": "boolean",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "blackmatrix7.tieba",
+      "name": "百度贴吧",
+      "keys": [
+        "tieba_signin_cookie",
+        "tieba_sync_qinglong"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/tieba.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png"
+      ],
+      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.js",
+      "settings": [
+        {
+          "id": "tieba_sync_qinglong",
+          "name": "同步Cookie到青龙面板",
+          "val": false,
+          "type": "boolean",
+          "desc": "需先配置好青龙面板登录参数，并确保手机可以访问青龙面板"
+        },
+        {
+          "id": "tieba_signin_cookie",
+          "name": "百度贴吧Cookies",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "推荐由脚本自动获取Cookies，如有特殊情况可手动填写，必须为Json格式",
+          "autoGrow": true,
+          "desc": "多账户Cookies，如出现异常，请删除全部内容，避免直接编辑数据"
+        }
+      ]
+    },
+    {
+      "id": "blackmatrix7.zhihu",
+      "name": "知乎助手",
+      "keys": [
+        "zhihu_blocked_users",
+        "zhihu_current_userinfo",
+        "zhihu_keyword_block"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.png"
+      ],
+      "descs_html": [
+        "<h4 align=\"left\">具体功能说明查看<a href=\"https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu#readme\">README.md</a></h4>",
+        "<h4 align=\"left\">✨为Plus版本专属功能，❓为已过时或即将淘汰功能</h4>",
+        "<h4 align=\"left\">切换Lite、Plus版本，或出现异常请执行数据清理</h4>"
+      ],
+      "scripts": [
+        {
+          "name": "知乎助手数据清理",
+          "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.js"
+        }
+      ],
+      "settings": [
+        {
+          "id": "zhihu_settings_recommend_stream",
+          "name": "屏蔽推荐页流媒体",
+          "val": false,
+          "type": "boolean",
+          "desc": "屏蔽推荐页中的视频、直播等流媒体信息"
+        },
+        {
+          "id": "zhihu_settings_moments_stream",
+          "name": "屏蔽关注页流媒体",
+          "val": false,
+          "type": "boolean",
+          "desc": "屏蔽关注页中的“最新视频”"
+        },
+        {
+          "id": "zhihu_settings_hot_list",
+          "name": "热榜去广告",
+          "val": true,
+          "type": "boolean",
+          "desc": "去除知乎热榜页面的广告"
+        },
+        {
+          "id": "zhihu_settings_fake_vip",
+          "name": "显示为盐选会员",
+          "val": false,
+          "type": "boolean",
+          "desc": "非会员用户显示为盐选会员，屏蔽关键词解锁需要开启此功能"
+        },
+        {
+          "id": "zhihu_settings_preset_words",
+          "name": "屏蔽预置关键词广告",
+          "val": false,
+          "type": "boolean",
+          "desc": "屏蔽搜索页中的预置关键词广告"
+        },
+        {
+          "id": "zhihu_settings_remove_article",
+          "name": "屏蔽推荐页中的文章",
+          "val": false,
+          "type": "boolean",
+          "desc": "屏蔽推荐页中的文章，默认不启用"
+        },
+        {
+          "id": "zhihu_settings_blocked_users",
+          "name": "黑名单屏蔽效果增强✨",
+          "val": true,
+          "type": "boolean",
+          "desc": "增强知乎APP黑名单用户屏蔽效果"
+        },
+        {
+          "id": "zhihu_settings_blocked_keywords",
+          "name": "推荐页关键词过滤✨",
+          "val": true,
+          "type": "boolean",
+          "desc": "除普通关键词外还支持正则表达式过滤"
+        },
+        {
+          "id": "zhihu_settings_sys_msg",
+          "name": "屏蔽官方账号推广消息✨",
+          "val": false,
+          "type": "boolean",
+          "desc": "屏蔽消息页内的官方账号推广消息"
+        },
+        {
+          "id": "zhihu_settings_answer_tip",
+          "name": "付费内容/营销推广/购物推广提醒✨",
+          "val": true,
+          "type": "boolean",
+          "desc": "在知乎回答中提示付费或营销内容"
+        },
+        {
+          "id": "zhihu_settings_remove_sections",
+          "name": "移除推荐页顶部项✨",
+          "val": false,
+          "type": "boolean",
+          "desc": "知乎8.3.0有效，仅保留全部和直播，直播无法去除"
+        },
+        {
+          "id": "zhihu_settings_app_conf",
+          "name": "去除推荐页多余标签❓",
+          "val": false,
+          "type": "boolean",
+          "desc": "知乎7.x及以上版本无效"
+        },
+        {
+          "id": "zhihu_settings_hot_search",
+          "name": "知乎热搜去广告❓",
+          "val": false,
+          "type": "boolean",
+          "desc": "知乎7.x及以上版本无效"
+        },
+        {
+          "id": "zhihu_keyword_block",
+          "name": "知乎屏蔽关键词",
+          "val": "",
+          "type": "textarea",
+          "desc": "必须是JSON格式，Key为用户Id，不要修改。格式不正确可能导致执行异常。"
+        }
+      ]
+    },
+    {
+      "id": "blackmatrix7.synology",
+      "name": "Synology",
+      "keys": [
+        "syno_https_url",
+        "syno_account",
+        "syno_passwd",
+        "syno_sid"
+      ],
+      "settings": [
+        {
+          "id": "syno_https_url",
+          "name": "群晖地址",
+          "val": "",
+          "type": "input",
+          "placeholder": "http://192.168.1.100:5000",
+          "autoGrow": true,
+          "desc": "目前暂不支持https，请使用http"
+        },
+        {
+          "id": "syno_account",
+          "name": "群晖账户",
+          "val": "",
+          "type": "input",
+          "placeholder": "admin",
+          "autoGrow": true,
+          "desc": "可访问DownloadStation的账号，记得设置默认下载路径"
+        },
+        {
+          "id": "syno_passwd",
+          "name": "群晖密码",
+          "val": "",
+          "type": "input",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "建议单独建立一个账户保证安全"
+        },
+        {
+          "id": "syno_sid",
+          "name": "群晖Sid",
+          "val": "",
+          "type": "input",
+          "placeholder": "",
+          "autoGrow": true,
+          "desc": "除非无法正常获取Sid，否则保持现在的值，不要修改"
+        }
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/synology",
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/icon/synology_dark.jpg",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/icon/synology.jpg"
+      ],
+      "scripts": [
+        {
+          "name": "登录Synology",
+          "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/downloadstation.js"
+        }
+      ]
+    },
+    {
+      "id": "blackmatrix7.applestore",
+      "name": "AppleStore",
+      "keys": [
+        "goods_model",
+        "applestore_region",
+        "applestore_bark_url",
+        "applestore_stock",
+        "onlinestore_stock"
+      ],
+      "author": "@blackmatrix7",
+      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/applestore",
+      "settings": [
+        {
+          "id": "goods_model",
+          "name": "商品型号",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "Z0YQ#MKMR3CH/A,MJXA3FE/A#AppleWatch 7 石墨色不锈钢;MLDE3CH/A",
+          "autoGrow": true,
+          "desc": "需要监控的商品型号，option用#分隔，自定义名称在option后以#分隔。多款以;分隔，移动端建议只监控一个。"
+        },
+        {
+          "id": "applestore_region",
+          "name": "监控地区",
+          "val": "",
+          "type": "input",
+          "placeholder": "吉林 长春 朝阳区",
+          "autoGrow": true,
+          "desc": "直辖市示例：北京 北京 昌平区"
+        },
+        {
+          "id": "applestore_settings_notify_soldout",
+          "name": "查询无货也进行通知",
+          "val": false,
+          "type": "boolean",
+          "desc": "可能会发起大量推送，建议仅在测试时开启"
+        }
+      ],
+      "icons": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/icon/applestore_dark.png",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/icon/applestore.png"
+      ]
+    }
+  ]
+}
