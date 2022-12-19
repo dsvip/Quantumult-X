@@ -5,7 +5,7 @@
 
 |DivineEngine|  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- |
-|[Advertising](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/Advertising.list) |[AdvertisingPlus](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/AdvertisingPlus.conf) |[媒体流CN](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_China.list) |[CN IP](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/ChinaIP.list) |[Global](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/Global.list) ||||
+|[Advertising](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/Advertising.list) |[AdvertisingPlus](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/AdvertisingPlus.conf) |[媒体流CN](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_China.list) |[CN IP](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_ChinaIP.list) |[Global](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/Global.list) ||||
 |[Hijacking](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Hijacking.list) |[Privacy](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Privacy.list) |[Streaming](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Streaming.list) |[TikTok](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_TikTok.list) |[Unbreak](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Unbreak.list) |||
 
 
