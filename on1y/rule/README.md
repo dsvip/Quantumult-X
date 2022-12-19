@@ -18,5 +18,5 @@
 
 |zwf234|  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- |
-|[Netease](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_Netease.list) |[YouTubeMusic](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/YouTubeMusic) |[Bibili/HK-TW](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_hk-tw.list) |[地理位置](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_location.list) |[大陆服务](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_mainland.list) ||||
+|[Netease](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_Netease.list) |[Netase_ca.crt](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_wyy_ca.crt) |[Bibili/HK-TW](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_hk-tw.list) |[地理位置](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_location.list) |[大陆服务](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/zwf234_mainland.list) ||||
 |[海外服务](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/overseas.list) |
