@@ -7,7 +7,8 @@
 | ---- | ---- | ---- | ---- | ---- |
 |[Advertising](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/Advertising.list) |[AdvertisingPlus](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/AdvertisingPlus.conf) |[媒体流CN](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_China.list) |[CN IP](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/ChinaIP.list) |[Global](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/Global.list) ||||
 |[Hijacking](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Hijacking.list) |[Privacy](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Privacy.list) |[Streaming](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Streaming.list) |[TikTok](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_TikTok.list) |[Unbreak](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/DivineEngine_Unbreak.list) |||
-|[iCloud](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/iCloud) |
+
+
 |blackmatrix7|  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- |
 |[BiliBili](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/BiliBili) |[CCTV](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/CCTV) |[ChinaMedia](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/ChinaMedia) |[网易云音乐](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/NetEaseMusic) |[网易云音乐](https://raw.githubusercontent.com/dsvip/Quantumult-X/master/on1y/rule/NetEaseMusic) ||||
