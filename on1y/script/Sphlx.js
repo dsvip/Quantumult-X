@@ -8,7 +8,7 @@
 *******************************
 
 [rewrite_local]
-^https?:\/\/c-api\.bhunm\.cn\/capi\/wxRegisterLogin*? url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/Sphlx.js
+^https?:\/\/c-api\.bhunm\.cn\/capi\/wxRegisterLogin*? url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/script/Sphlx.js
 
 
 [mitm]
