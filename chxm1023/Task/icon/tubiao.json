@@ -1,0 +1,81 @@
+{"name": "自用图标库",
+ "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
+ "icons": [
+ {"name": "阿里网盘",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/alwp.png"},
+
+ {"name": "哔哩哔哩",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/bilibili.png"},
+
+ {"name": "boxjs",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/box.png"},
+
+ {"name": "彩云天气",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/caiyun.png"},
+
+ {"name": "Google Voice",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/GV.PNG"},
+
+ {"name": "中国电信",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/DXJD.PNG"},
+
+ {"name": "58同城",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/58tc.png"},
+
+ {"name": "clean",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/clean.png"},
+
+ {"name": "饿了么",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/elem.png"},
+
+ {"name": "epic",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/epic.png"},
+
+ {"name": "exchangerate",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/exchangerate.png"},
+
+ {"name": "赶集直招",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/ganji.png"},
+
+ {"name": "Github",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/github.png"},
+
+ {"name": "iDaily",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/iDaily.png"},
+
+ {"name": "汇率监控",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/hljk.png"},
+
+ {"name": "京东",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/jd.png"},
+
+ {"name": "京东赚赚",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/jdzz.png"},
+
+ {"name": "健走有礼",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/jzyl.png"},
+
+ {"name": "快手",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/kuaishou.png"},
+
+ {"name": "慢慢买",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/manmanmai.png"},
+
+ {"name": "美团",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/meituan.png"},
+
+ {"name": "美团2",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/mt.png"},
+
+ {"name": "百度贴吧",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/tieba.png"},
+
+ {"name": "腾讯视频",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/txvideo.png"},
+
+ {"name": "悟空",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/wk.png"},
+
+ {"name": "小米运动",
+  "url": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/xmyd.png"}
+]}
