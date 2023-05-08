@@ -22,5 +22,4 @@ hostname = jietu6.com|jietu8.com
 
 var body = $response.body.replace(/"end_time":".*?"/g,'"end_time":"2099-11-11"')
 .replace(/"group_id":"\d+"/g,'"group_id":"3"')
-.replace(/"group":"\w+"/g,'"group":"冬瓜会员"')
-$done({ body });
+done({ body });
