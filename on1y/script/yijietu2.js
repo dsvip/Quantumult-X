@@ -19,6 +19,6 @@ hostname = jietu6.com, 1jietu.com
 
 
 *******************************/
-body = $response.body.replace(/\"group_id":\.+/g, '\""group_id":"3"').replace(/\"group":\.+/g, '\"group":陌路')
+body = $response.body.replace(/\"group_id":\.+, '\""group_id":"3"')
 
 $done({body});
