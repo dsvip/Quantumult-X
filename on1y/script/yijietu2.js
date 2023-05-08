@@ -9,7 +9,7 @@
 
 
 
-^https:\/\/(jietu6|1jietu).com/apiv2/user url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/script/yijietu2.js
+^https?://(jietu6|1jietu).com/apiv2/user url script-response-body https://raw.githubusercontent.com/dsvip/Quantumult-X/main/on1y/script/yijietu2.js
 
 # MITM
 
