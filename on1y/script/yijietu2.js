@@ -11,10 +11,8 @@ hostname = jietu6.com, 1jietu.com
 
 
 *******************************/
-var body=$response.body;
-body = body.replace(/"group_id\":.+,"group_id":"3");
-body = body.replace(/"group\":.+,"group" : "神哥哥");
-body = body.replace(/vip_datetime\":\d/g,"vip_datetime" : "4070880000");
-body = body.replace(/"agent\":.+,"agent" : "王牌代理商");
-body = body.replace(/"nickname\":.+,"nickname":"冬瓜茶");
-$done(body);
+
+
+body = $response.body.replace(/\"group_id":\w+/g, '\"group_id":3')
+
+$done({body});
